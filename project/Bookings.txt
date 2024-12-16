@@ -1,0 +1,7 @@
+Customer Name: maria
+-------------------------
+Customer ID: 2
+Customer Name: john
+Room Number: 1
+Booking Date: 12/12/2024
+-------------------------

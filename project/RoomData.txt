@@ -1,0 +1,15 @@
+Room Number: 2
+Room Type: Single
+Price: 2000.00
+Availability: No
+-------------------------
+Room Number: 1
+Room Type: Single
+Price: 2000.00
+Availability: No
+-------------------------
+Room Number: 3
+Room Type: Suite
+Price: 5000.00
+Availability: Yes
+-------------------------
